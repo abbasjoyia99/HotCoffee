@@ -1,5 +1,5 @@
 # HotCoffee
-# A simple Coffee Ordering app built using MVVM-TableView design pattern and Swift5.
+# A simple Coffee Ordering app built using TableView, MVVM design pattern and Swift5.
 
 # Tools
 - Xcode Version 13.2.1
